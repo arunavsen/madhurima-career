@@ -1,0 +1,133 @@
+{
+  "name": "Madhurima Das Burman",
+  "title": "Business Development and Sales Professional",
+  "location": "Dhaka, Bangladesh",
+  "tagline": "Results-oriented professional with experience in client acquisition, relationship management, travel consulting, and growth-focused sales execution.",
+  "summary": "Results-oriented business development and sales professional with over 3 years of experience in client acquisition, strategic relationship management, and market analysis. Recognized for revenue-minded client engagement, practical communication, and using structured sales processes to improve retention and business growth.",
+  "contact": [
+    {
+      "label": "Phone",
+      "value": "+8801622112614",
+      "href": "tel:+8801622112614"
+    },
+    {
+      "label": "Alternate",
+      "value": "+8801521400822",
+      "href": "tel:+8801521400822"
+    },
+    {
+      "label": "Email",
+      "value": "madhurima0423@gmail.com",
+      "href": "mailto:madhurima0423@gmail.com"
+    },
+    {
+      "label": "Location",
+      "value": "Dhaka, Bangladesh"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Sales and Client Work",
+      "items": [
+        "Client acquisition",
+        "Lead generation",
+        "Client onboarding",
+        "Relationship management",
+        "Travel package consultation"
+      ]
+    },
+    {
+      "title": "Operations and Tools",
+      "items": [
+        "CRM systems (Zoho)",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft PowerPoint",
+        "Record keeping"
+      ]
+    },
+    {
+      "title": "Professional Strengths",
+      "items": [
+        "Communication",
+        "Presentation skills",
+        "Time management",
+        "Work prioritisation",
+        "Creative thinking"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "B2",
+      "proficiency": "Upper Intermediate"
+    },
+    {
+      "name": "Bengali",
+      "level": "C2",
+      "proficiency": "Proficient"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Pan Pacific Tours",
+      "role": "Senior Visa and Holiday Package Consultant",
+      "location": "Dhaka, Bangladesh",
+      "start": "April 2025",
+      "end": "Present",
+      "achievements": [
+        "Managed visa processing and holiday package consulting independently and with internal teams to support accurate, timely service delivery.",
+        "Provided tailored consultation to clients by shaping travel solutions and holiday packages around individual requirements.",
+        "Worked within company policy and operational guidelines while handling day-to-day client needs professionally.",
+        "Took on additional responsibilities to maintain smooth workflow and dependable customer support."
+      ]
+    },
+    {
+      "company": "CholoJai Tours Ltd.",
+      "role": "Sales Executive",
+      "location": "Dhaka, Bangladesh",
+      "start": "February 2024",
+      "end": "November 2024",
+      "achievements": [
+        "Engaged potential clients through calls, email, and online platforms to understand needs and shape suitable travel packages.",
+        "Maintained client relationships and shared detailed travel information that supported confident booking decisions.",
+        "Consistently met or exceeded sales targets, contributing directly to company growth.",
+        "Improved client retention by resolving complex issues effectively and earning positive recognition from management."
+      ]
+    },
+    {
+      "company": "Premier 1888 Limited",
+      "role": "Executive Officer",
+      "location": "Chittagong, Bangladesh",
+      "start": "February 2022",
+      "end": "October 2023",
+      "achievements": [
+        "Oversaw export operations and coordinated with cross-functional teams to support smooth execution and international client retention.",
+        "Conducted market research to identify export growth opportunities and support strategic expansion planning.",
+        "Strengthened client relationships through negotiation and service follow-through, helping increase sales and retention.",
+        "Boosted revenue by 20 percent through strategic relationship management and reliable issue resolution."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Business Administration",
+      "institution": "East Delta University",
+      "location": "Chittagong, Bangladesh",
+      "period": "2020 - 2022",
+      "detail": "Major in Marketing",
+      "score": "CGPA 2.80 / 4.00"
+    },
+    {
+      "degree": "Bachelor of Business Administration",
+      "institution": "Maulana Abul Kalam Azad University of Technology",
+      "location": "Kolkata, West Bengal",
+      "period": "2017 - 2020",
+      "detail": "Major in Marketing",
+      "score": "CGPA 3.03 / 4.00"
+    }
+  ],
+  "interests": ["Singing", "Cooking", "Travelling"],
+  "cvFileName": "MadhurimaDasBurman_Resume.pdf"
+}

@@ -1,0 +1,14 @@
+node_modules
+dist
+.vite
+*.log
+_clientreq_docx
+ClientRequirement.zip
+stitch_exports
+tsconfig.app.tsbuildinfo
+tsconfig.node.tsbuildinfo
+mcp-*.json
+vite.config.js
+vite.config.d.ts
+.vscode/
+
