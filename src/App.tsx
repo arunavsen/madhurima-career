@@ -362,6 +362,18 @@ function ContactSection() {
         <h3 className="font-display text-[30px] text-[#211c19]">
           Let&apos;s start a conversation.
         </h3>
+        <h3 className="font-display text-[30px] text-[#211c19]">
+          Let&apos;s start a conversation.
+        </h3>
+        <h3 className="font-display text-[30px] text-[#211c19]">
+          Let&apos;s start a conversation.
+        </h3>
+        <h3 className="font-display text-[30px] text-[#211c19]">
+          Let&apos;s start a conversation.
+        </h3>
+        <h3 className="font-display text-[30px] text-[#211c19]">
+          Let&apos;s start a conversation.
+        </h3>
         <p className="mt-3 text-[15px] leading-7 text-[#6f6254]">
           Available for client-facing, coordination, sales support, and business development
           opportunities.
