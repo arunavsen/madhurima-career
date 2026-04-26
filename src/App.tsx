@@ -373,21 +373,6 @@ function ContactSection() {
           value="madhurima0423@gmail.com"
           href="mailto:madhurima0423@gmail.com"
         />
-         <ContactCard
-          heading="Email"
-          value="madhurima0423@gmail.com"
-          href="mailto:madhurima0423@gmail.com"
-        />
-         <ContactCard
-          heading="Email"
-          value="madhurima0423@gmail.com"
-          href="mailto:madhurima0423@gmail.com"
-        />
-         <ContactCard
-          heading="Email"
-          value="madhurima0423@gmail.com"
-          href="mailto:madhurima0423@gmail.com"
-        />
         <ContactCard heading="Primary Phone" value="+8801622112614" href="tel:+8801622112614" />
         <ContactCard
           heading="Alternate Phone"
