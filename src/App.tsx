@@ -376,8 +376,8 @@ function ContactSection() {
         <ContactCard heading="Primary Phone" value="+8801622112614" href="tel:+8801622112614" />
         <ContactCard
           heading="Alternate Phone"
-          value="+8801521400822"
-          href="tel:+8801521400822"
+          value="+8801521400922"
+          href="tel:+8801521400922"
         />
         <ContactCard heading="Location" value={data.location} />
       </div>
