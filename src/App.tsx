@@ -48,16 +48,25 @@ function App() {
 function MobileHeader() {
   return (
     <header className="fixed inset-x-0 top-0 z-40 border-b border-[#e5ddd6] bg-[#fbf9f8]/90 backdrop-blur md:hidden">
-      <div className="flex items-center justify-between px-5 py-4">
-        <div>
-          <p className="font-display text-lg text-[#2a2420]">{data.name}</p>
-          <p className="mt-1 text-[11px] uppercase tracking-[0.22em] text-[#884530]">
-            {data.title}
-          </p>
+      <div className="flex items-center justify-between gap-4 px-5 py-4">
+        <div className="flex min-w-0 items-center gap-3">
+          <div className="h-14 w-14 shrink-0 overflow-hidden rounded-full border border-[#c9b8ab] bg-[#d2c0b1]">
+            <img
+              src="/MainPhoto.jpg"
+              alt="Madhurima Das Burman"
+              className="h-full w-full object-cover"
+            />
+          </div>
+          <div className="min-w-0">
+            <p className="truncate font-display text-lg text-[#2a2420]">{data.name}</p>
+            <p className="mt-1 text-[11px] uppercase tracking-[0.22em] text-[#884530]">
+              {data.title}
+            </p>
+          </div>
         </div>
         <a
           href={`/${data.cvFileName}`}
-          className="border border-[#2a2420] px-3 py-2 text-[11px] font-semibold uppercase tracking-[0.2em] text-[#2a2420]"
+          className="shrink-0 border border-[#2a2420] px-3 py-2 text-[11px] font-semibold uppercase tracking-[0.2em] text-[#2a2420]"
         >
           CV
         </a>
